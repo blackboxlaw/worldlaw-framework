@@ -6,37 +6,6 @@ All master charts and diagrams for the initial WorldLaw product launch.
 ---
 --- 
 
-![Image of Logo Anim. Black](http://blackboxlaw.com/images/wl-anim-2020-black-12-black.gif)
-
----
---- 
-
-![Image of Logo Anim. Cyan](http://blackboxlaw.com/images/wl-anim-2020-black-12-cyan.gif)
-
----
---- 
-
-![Image of Logo Anim. Fuchsia](http://blackboxlaw.com/images/wl-anim-2020-black-12-fuchsia.gif)
-
----
---- 
-
-![Image of Logo Anim. Green](http://blackboxlaw.com/images/wl-anim-2020-black-12-green.gif)
-
----
---- 
-
-![Image of Logo Anim. Red](http://blackboxlaw.com/images/wl-anim-2020-black-12-red.gif)
-
----
---- 
-
-![Image of Logo Anim. Yellow](http://blackboxlaw.com/images/wl-anim-2020-black-12-yel.gif)
-
----
---- 
-
-
 ![Image of WorldLaw Slide 1](https://www.lucidchart.com/publicSegments/view/f44517b1-e84b-4684-a7d7-9ec336763634/image.png)
 
 ---
