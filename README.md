@@ -1,7 +1,10 @@
 # worldlaw-framework
 All master charts and diagrams for the initial WorldLaw product launch.
 
-![Image of Logo Anim. Black](http://blackboxlaw.com/images/wl-anim-2020-black-12-black.gif
+![Image of Logo Anim. Black](http://blackboxlaw.com/images/wl-anim-2020-black-12-black.gif)
+
+---
+--- 
 
 ![alt text](http://blackboxlaw.com/images/wl-anim-2020-black-12-cyan.gif "Logo Anim. Cyan"
 
@@ -13,18 +16,6 @@ All master charts and diagrams for the initial WorldLaw product launch.
 
 ![alt text](http://blackboxlaw.com/images/wl-anim-2020-black-12-yel.gif "Logo Anim. Yellow"
 
-
-ftp://homepres@blackboxlaw.com/public_html/blackboxlaw.com/images/wl-anim-2020-black-12-black.gif
-
-ftp://homepres@blackboxlaw.com/public_html/blackboxlaw.com/images/wl-anim-2020-black-12-cyan.gif
-
-ftp://homepres@blackboxlaw.com/public_html/blackboxlaw.com/images/wl-anim-2020-black-12-fuchsia.gif
-
-ftp://homepres@blackboxlaw.com/public_html/blackboxlaw.com/images/wl-anim-2020-black-12-green.gif
-
-ftp://homepres@blackboxlaw.com/public_html/blackboxlaw.com/images/wl-anim-2020-black-12-red.gif
-
-ftp://homepres@blackboxlaw.com/public_html/blackboxlaw.com/images/wl-anim-2020-black-12-yel.gif
 
 
 ![Image of WorldLaw Slide 1](https://www.lucidchart.com/publicSegments/view/f44517b1-e84b-4684-a7d7-9ec336763634/image.png)
