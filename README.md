@@ -155,11 +155,6 @@ All master charts and diagrams for the initial WorldLaw product launch.
 ---
 --- 
 
-![Image of WorldLaw Slide 44](https://www.lucidchart.com/publicSegments/view/5874dc14-2024-4bc2-b86a-663c46c6513d/image.png)
-
----
---- 
-
 ![Image of WorldLaw Slide 46](https://www.lucidchart.com/publicSegments/view/db2a5013-e4f1-41fa-a1d6-07db5b27e14c/image.png)
 
 ---
