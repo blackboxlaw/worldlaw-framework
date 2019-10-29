@@ -3,7 +3,7 @@ All master charts and diagrams for the initial WorldLaw product launch.
 
 
 ---
-![Image of WorldLaw Slide 0] (http://blackboxlaw/images/worldlaw-protocols-lined-logo-w.png)
+![Image of WorldLaw Slide 0] (http://blackboxlaw.com/images/worldlaw-protocols-lined-logo-w.png)
 
 --- 
 --- 
